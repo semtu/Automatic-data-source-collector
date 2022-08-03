@@ -1,9 +1,9 @@
 # Automatic data source collector (foreign articles)
 
 A web crawler for Pubmed:
--take a disease name as input
--find articles on the disease name in a foreign language (preferably from Pubmed) 
--translate their title and body paragraphs to English.
+- take a disease name as input
+- find articles on the disease name in a foreign language (preferably from Pubmed) 
+- translate their title and body paragraphs to English.
 
 To run:
 - Install dependencies
