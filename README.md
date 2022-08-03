@@ -1,6 +1,6 @@
 # Automatic data source collector (foreign articles)
 
-Not all papers are written in English. Create a web crawler that can:
+A web crawler for Pubmed:
 -take a disease name as input
 -find articles on the disease name in a foreign language (preferably from Pubmed) 
 -translate their title and body paragraphs to English.
